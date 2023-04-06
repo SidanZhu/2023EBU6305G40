@@ -12,3 +12,7 @@ Ruishu Ji, 2020213081, 200977537, jp2020213081@qmul.ac.uk
 
 Ruoxuan Yan, 2020213056, 200979184, jp2020213056@qmul.ac.uk
 ## Assigned TA:Yiming Zhou
+
+## Quik Look
+Version 1
+![2dd61d432ee62cf9b83194d400cd5c8.jpg](https://s2.loli.net/2023/04/06/LOn9QwS2ys4pHqf.jpg)
