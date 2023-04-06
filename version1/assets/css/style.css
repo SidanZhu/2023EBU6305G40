@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+.app {
+    width: 100%;
+    text-align: center;
+}
+ 
+.app .scroll {
+    position: relative;
+    display: inline-block;
+    width: 1226px;
+    height: 600px;
+}
+
+.app .scroll .img{
+    display: none;
+    width: 100%;
+}
+ 
+.app .scroll .current {
+    display: block;
+}
+ 
+.scroll .lf {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    background-image: url('images/left-arrow.png');
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transform: translateY(-50%);
+}
+ 
+.scroll .lr {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    background-image: url('images/right-arrow.png');
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transform: translateY(-50%);
+}
+ 
+.dots {
+    position: absolute;
+    bottom: 10px;
+    right: 45%;
+    width: 160px;
+}
+ 
+.dots>span {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 11px;
+    height: 11px;
+    border: 3px solid rgba(204, 204, 204, 0.2);
+    border-radius: 15px;
+    cursor: pointer;
+}
+ 
+.dots>span:not(:last-child) {
+    margin-right: 5px;
+}
+ 
+/* 小圆点的颜色 */
+.dots .square {
+    background: #f46;
+
+}
+
+.region{
+    text-align: center;
+}
+
+.enterprises h1{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.card-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.card-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    margin: 50px 20px;
+    border: 3px solid gray;
+    transition: height 0.4s ease;
+}
+
+.compImg{
+    width: 100%;
+    height: 60%;
+    /* border: 3px solid black; */
+    transition: height 0.4s ease;
+}
+
+
+.compImg img{
+    width: 100%;
+    height: 100%;
+}
+
+.compInf{
+    position: relative;
+    width: 100%;
+    height: 40%;
+    /* border: 3px solid red; */
+    transition: height 0.4s ease;
+    margin: 5px;
+    
+}
+
+.compInf .title{
+    font-size: 25px;
+}
+
+.compInf .text{
+    font-size: 10px;
+}
+
+.compInf .more-text{
+    font-size: 10px;
+    visibility: hidden;
+}
+
+.card:hover .compImg{
+    height: 40%;
+}
+
+.card:hover .compInf{
+    height: 60%;
+}
+
+.card:hover .more-text{
+    visibility: visible;
+}
