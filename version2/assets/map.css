@@ -1,0 +1,150 @@
+.map1 {
+  
+   
+    width:75rem;
+    height:34.375rem;
+  
+   
+  
+    
+}
+
+
+body{
+    
+    /*background-image: url("../../images/1.png") no-repeat;*/
+   background: rgba(255,255,255, 0.1);
+   opacity: 0.9;
+    
+}
+
+
+
+   
+.link1 img{
+    width:2rem;
+    height:2rem;
+    text-decoration: none;
+    
+    
+}
+#dufu{
+    position: absolute;
+    top: 24.5rem;
+    left:41.625rem;
+}
+#wuhou{
+    position: absolute;
+    top:31.125rem;
+    left:40.613rem;
+}
+#panda{
+    position: absolute;
+    top: 28.138rem;
+    left:42.925rem;
+}
+#mount{
+    position: absolute;
+    top:19.125rem;
+    left: 31.95rem;
+}
+#dujiang{
+    position: absolute;
+    top:20.750rem;
+    left: 32.888rem;
+}
+.inputs{
+    width:31.250rem;
+    height:1.250rem;
+    color:rgb(34,139,34);
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold;
+    border: 0;
+    background-color: rgba(0,0,0, 0.001);
+    border:0.125rem;
+  }
+#dufuintroduction{
+    position: absolute;  
+    top: 23.5rem;
+    left:41.625rem;
+ 
+}
+#dufus{
+    position: absolute;  
+    top: 17.5rem;
+    left:42rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+  
+
+}
+#Wuhouintroduction{
+    position: absolute;
+    top:32rem;
+    left:42.713rem;
+}
+#Wuhous{
+    position: absolute;
+    top:33.125rem;
+    left:42.613rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+}
+#pandaintroduction{
+    position:absolute;
+    top: 27.138rem;
+    left:42.925rem;
+}
+#Pandas{
+    position:absolute;
+    top: 29.138rem;
+    left:45.825rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+}
+#mountintroduction{
+    position: absolute;
+    top:18.125rem;
+    left: 30.75rem;
+}
+#mounts{
+    position:absolute;
+    top: 11.9rem;
+    left:31.125rem;
+    width:3rem;
+    height:6rem;
+    color: black;
+    
+
+}
+#dujiangintroduction{
+    position: absolute;
+    top:19.50rem;
+    left: 34rem;
+}
+#dujiangyans{
+    position: absolute;
+    top:22.0rem;
+    left: 34.9rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+    
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .echarts-map {
+    position:relative;
+    width: 700px;
+    height: 700px;
+    left:290px;
+}
+
+
