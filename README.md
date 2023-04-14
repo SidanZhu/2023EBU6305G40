@@ -31,3 +31,6 @@ A few screenshots:
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/128134577/230362318-a51a3b9e-a3ff-4dae-8f25-8c0677a62ab2.png">
 <img width="920" alt="image" src="https://user-images.githubusercontent.com/128134577/230362428-7b00cdab-67a0-4aac-8ba9-803321602ba7.png">
 
+Version 2
+
+We have added video background to the main page and beautified most elements.
