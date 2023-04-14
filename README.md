@@ -34,3 +34,5 @@ A few screenshots:
 Version 2
 
 We have added video background to the main page and beautified most elements.
+
+A few screenshots:
