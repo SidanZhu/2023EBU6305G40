@@ -268,7 +268,7 @@ option4 = {
     },
     yAxis: {
         type: 'category',
-        data: ['Manufacturing industry', 'Construction indu,stry', 'Information technology industry', 'Service industry', 'Financial industry', 'Retail industry']
+        data: ['Manufacturing industry', 'Construction indu,stry', 'IT industry', 'Service industry', 'Financial industry', 'Retail industry']
     },
     series: [
         {
