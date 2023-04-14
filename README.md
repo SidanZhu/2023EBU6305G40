@@ -33,7 +33,7 @@ A few screenshots:
 
 Version 2
 
-We have added video background to the main page and beautified most elements.
+We have added video background to the main page and beautified most elements.We also add more animations and information.
 
 A few screenshots:
 ![微信截图_20230414115117](https://user-images.githubusercontent.com/128205502/231937423-a4fb8dde-5148-47e4-8f73-4eb4c8b9c973.png)
@@ -45,4 +45,8 @@ A few screenshots:
 ![image](https://user-images.githubusercontent.com/128036352/231962417-379f30bb-0bb8-4c65-9049-783edeb74a01.png)
 ![image](https://user-images.githubusercontent.com/128036352/231962512-f5f78f6c-f5b6-4ead-aaae-78474cff493c.png)
 ![image](https://user-images.githubusercontent.com/128036352/231962621-83b89275-6e8a-410e-baf0-a28b126562fe.png)
-
+<img width="1440" alt="截屏2023-04-14 下午4 38 33" src="https://user-images.githubusercontent.com/106053648/231991839-f13d9525-fb8a-4b63-8dc6-884a151c7983.png">
+<img width="1440" alt="截屏2023-04-14 下午4 38 56" src="https://user-images.githubusercontent.com/106053648/231991873-9a50607c-adad-4682-a206-97b2bf8e24b5.png">
+<img width="1440" alt="截屏2023-04-14 下午4 40 48" src="https://user-images.githubusercontent.com/106053648/231992243-4abd48a2-7f4e-416b-96ed-52ce1c263fde.png">
+<img width="1440" alt="截屏2023-04-14 下午4 41 01" src="https://user-images.githubusercontent.com/106053648/231992272-930a11be-eb19-4599-92d9-4e65c9f29f1b.png">
+<img width="1439" alt="截屏2023-04-14 下午4 41 32" src="https://user-images.githubusercontent.com/106053648/231992280-4d2508fa-9c3f-4596-910c-fb59e4d51f68.png">
