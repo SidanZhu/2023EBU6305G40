@@ -38,4 +38,8 @@ We have added video background to the main page and beautified most elements.
 A few screenshots:
 ![微信截图_20230414115117](https://user-images.githubusercontent.com/128205502/231937423-a4fb8dde-5148-47e4-8f73-4eb4c8b9c973.png)
 ![微信截图_20230414115351](https://user-images.githubusercontent.com/128205502/231937588-91dae2fe-e799-4ba3-9de9-db1bfb571545.png)
+![image](https://user-images.githubusercontent.com/128036352/231961601-708b061e-28e2-4b8b-bfb2-383f38ee0af0.png)
+![image](https://user-images.githubusercontent.com/128036352/231961740-7da8a138-29c5-4856-a660-34a922c8d079.png)
+![image](https://user-images.githubusercontent.com/128036352/231961973-d8a8e49b-dc10-44a7-8da4-4c7d9ed6ecee.png)
+![image](https://user-images.githubusercontent.com/128036352/231962106-d0e9ae76-43ad-4b4f-ae31-0810afb1c78a.png)
 
