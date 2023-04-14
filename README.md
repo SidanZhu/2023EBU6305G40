@@ -36,3 +36,6 @@ Version 2
 We have added video background to the main page and beautified most elements.
 
 A few screenshots:
+![微信截图_20230414115117](https://user-images.githubusercontent.com/128205502/231937423-a4fb8dde-5148-47e4-8f73-4eb4c8b9c973.png)
+![微信截图_20230414115351](https://user-images.githubusercontent.com/128205502/231937588-91dae2fe-e799-4ba3-9de9-db1bfb571545.png)
+
