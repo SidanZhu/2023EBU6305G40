@@ -1,0 +1,110 @@
+.image{
+    position: relative;
+    width:800px;
+   height:500px;
+   margin-left: 50px;
+}
+.images{
+    position: relative;
+    width:800px;
+   height:500px;
+   margin-top: 40px;
+}
+
+ .texts{
+     width:300px;
+   height:200px;
+   background-color:rgba(69,112,25,0.3);
+    color:black;
+    font-family: "Lobster",cursive;
+    font-size: 1rem;
+    border-radius: 100%;
+    
+}
+.texts p{
+    padding:70px 20px;
+}
+.textses{
+    width:300px;
+   height:200px;
+   background-color:rgba(69,112,25,0.3);
+    font-family: "Lobster",cursive;
+    font-size: 1rem;
+    border-radius: 100%;
+}
+.textses p{
+    padding:70px 20px;
+}
+
+.photo{
+    width:150px;
+    height:200px;
+}
+@keyframes fadeIn {
+    0% {
+    opacity: 0; /*初始状态 透明度为0*/
+    }
+    25%{
+    opacity: 0.25;
+    }
+    50% {
+    opacity: 0.5; /*中间状态 透明度为0*/
+    }
+    60% {
+    opacity: 1; /*结尾状态 透明度为1*/
+    }
+    80%{
+    opacity: 0.6;
+    }
+    100%{
+    opacity: 0;
+    }
+    }
+    .image{
+
+    animation-name: fadeIn; /*动画名称*/
+    animation-duration: 8s; /*动画持续时间*/
+   animation-iteration-count: infinite;
+    animation-delay: 0s; /*延迟时间*/
+ }
+ 
+/*ul{
+    list-style: none;
+
+}*/
+.box1{
+    padding-top: 1px;
+}
+.box1 ul li{
+    display: inline;
+    float: left;
+    padding-left: 20px;
+    width:300px;
+    font-family: "Lobster",cursive;
+    font-size: 0.5rem;
+    
+}
+
+.box2{
+    width: 1500px;
+    
+    margin-top: 20px;
+}
+.box2 ul li{
+    display: inline;
+    float: left;
+    padding-left: 20px;
+    width:300px;
+    font-family: "Lobster",cursive;
+    font-size: 0.5rem;
+    
+}
+
+.whole {
+    margin-top: 30px;
+    background-color: rgba(234,224,82,0.2);
+    height:700px;
+   
+}
+
+ 
