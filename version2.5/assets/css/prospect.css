@@ -1,15 +1,15 @@
 .change-image{
-	margin-left: 10%;
-	width:80%;
+	width:100%;
 }
 .ia-container {
-	width: 70rem;
+	width: 80%;
 	margin: 1rem auto;
 	padding: auto;
 	overflow: hidden;
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.08);
-	border: 0.3rem solid rgba(137, 169, 238,1);
-	border-radius: 10%;
+	border: 0.3rem solid rgba(137, 169, 238,0.2);
+	border-radius: 20%;
+
 }
 
 .ia-container figure {
@@ -18,13 +18,16 @@
 	left: 6rem;
 	/* width of visible piece */
 	width: 40rem;
+	height:100%;
 	box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.397);
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+	object-fit: fill;
 }
+
 
 .ia-container>figure {
 	position: relative;
