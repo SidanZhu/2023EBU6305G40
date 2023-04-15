@@ -344,7 +344,7 @@ option6 = {
                 }
             },
             axisLabel: {
-                fontSize: 35,
+                fontSize: 30,
                 distance: 25,
                 formatter: function (value) {
                     if (value === 0) {
