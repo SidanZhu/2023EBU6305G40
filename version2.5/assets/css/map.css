@@ -1,0 +1,73 @@
+.map1{
+   
+    width:75rem;
+    height:34.375rem;
+}
+.link1 img{
+    width:2rem;
+    height:2rem;
+    text-decoration: none;
+    
+    
+}
+#dufu{
+    position: absolute;
+    top: 20.625rem;
+    left:43.125rem;
+}
+#wuhou{
+    position: absolute;
+    top:25.625rem;
+    left:40.313rem;
+}
+#panda{
+    position: absolute;
+    top: 23.538rem;
+    left:43.125rem;
+}
+#mount{
+    position: absolute;
+    top:13.125rem;
+    left: 28.75rem;;
+}
+#dujiang{
+    position: absolute;
+    top:13.750rem;
+    left: 29.688rem;;
+}
+.inputs{
+    width:31.250rem;
+    height:1.250rem;
+    color:rgb(34,139,34);
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold;
+    border: 0;
+    background-color: rgba(0,0,0, 0.001);
+    border:0.125rem;
+  }
+#dufuintroduction{
+    position: absolute;
+    top:19.375rem;
+    left:43.750rem;    
+}
+#Wuhouintroduction{
+    position: absolute;
+    top:24.374rem;
+    left:40.0rem;
+}
+#pandaintroduction{
+    position:absolute;
+    top:22.288rem;
+    left:44.50rem;
+}
+#mountintroduction{
+    position: absolute;
+    top:11.875rem;
+    left:28.750rem;
+}
+#dujiangintroduction{
+    position: absolute;
+    top:15.50rem;
+    left:29.688rem;
+}
