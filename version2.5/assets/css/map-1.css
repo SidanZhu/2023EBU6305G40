@@ -22,8 +22,8 @@ body{
 
    
 .link1 img{
-    width:2rem;
-    height:2rem;
+    width:2.5rem;
+    height:2.5rem;
     text-decoration: none;
     
     
@@ -40,8 +40,8 @@ body{
 }
 #panda{
     position: absolute;
-    top: 29.138rem;
-    left:43.925rem;
+    top: 28.138rem;
+    left:42.925rem;
 }
 #mount{
     position: absolute;
@@ -71,8 +71,8 @@ body{
   }
 #dufuintroduction{
     position: absolute;
-    top: 24.56rem;
-    left:44rem;
+    top: 24rem;
+    left:42rem;
  
 }
 #dufus{
@@ -87,8 +87,8 @@ body{
 }
 #Wuhouintroduction{
     position: absolute;
-    top:31.5rem;
-    left:41.813rem;
+    top:32.5rem;
+    left:39.5rem;
 }
 #Wuhous{
     position: absolute;
@@ -100,8 +100,8 @@ body{
 }
 #pandaintroduction{
     position: absolute;
-    top: 28.138rem;
-    left:43.925rem;
+    top: 28.5rem;
+    left:45.5rem;
 }
 #Pandas{
     position:absolute;
@@ -114,7 +114,7 @@ body{
 #mountintroduction{
     position: absolute;
     top:17.125rem;
-    left: 30.95rem;}
+    left: 28rem;}
 
 #mounts{
     position:absolute;
@@ -128,22 +128,22 @@ body{
 }
 #dujiangintroduction{
     position: absolute;
-    top:19rem;
-    left: 32.888rem;
+    top:22.5rem;
+    left: 30rem;
 }
 #dujiangyans{
     position: absolute;
     top:22.0rem;
     left: 34.9rem;
     width:3rem;
-    height:6rem;
+    height:3rem;
     color:black;
     
 }
 #broadintroduction{
     position: absolute;
-    top:28.5rem;
-    left:35rem;
+    top:28rem;
+    left:36rem;
 
 }
 #broads{
@@ -151,7 +151,7 @@ body{
     top:22.125rem;
     left:37.613rem;
     width:3rem;
-    height:6rem;
+    height:3rem;
     color:black;
     
 }
