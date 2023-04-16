@@ -37,3 +37,47 @@
 // font-family: 'Advent Pro', sans-serif;
 // font-family: 'Amaranth', sans-serif;
 // font-family: 'Convergence', sans-serif;
+
+var linkattr = document.querySelector('#linkattr')
+var attr = document.querySelector('#attr')
+
+var linkshop = document.querySelector('#linkshop')
+var shopping = document.querySelector('#shopping')
+
+var linkfood = document.querySelector('#linkfood')
+var food = document.querySelector('#food')
+
+
+function heightToTop(ele){
+    //ele为指定跳转到该位置的DOM节点
+    let bridge = ele;
+    let root = document.body;
+    let height = 0;
+    do{
+        height += bridge.offsetTop;
+        bridge = bridge.offsetParent;
+    }while(bridge !== root)
+ 
+    return height;
+}
+//按钮点击时
+linkattr.addEventListener('click',function(){
+    window.scrollTo({
+        top:heightToTop(attr),
+        behavior:'smooth'
+    })
+})
+
+linkshop.addEventListener('click',function(){
+    window.scrollTo({
+        top:heightToTop(shopping),
+        behavior:'smooth'
+    })
+})
+
+linkfood.addEventListener('click',function(){
+    window.scrollTo({
+        top:heightToTop(food),
+        behavior:'smooth'
+    })
+})
