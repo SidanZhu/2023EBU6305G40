@@ -53,4 +53,6 @@ A few screenshots:
 <img width="909" alt="image" src="https://user-images.githubusercontent.com/128134577/232083085-916d6c03-804e-4ff8-acc2-40694acb9eec.png">
 <img width="902" alt="image" src="https://user-images.githubusercontent.com/128134577/232083263-5107f8f2-6b11-4563-bdda-0c6d826ee1d5.png">
 
+Version 2.5
+
 
