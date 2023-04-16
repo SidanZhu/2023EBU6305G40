@@ -1,47 +1,38 @@
-.list {
-    display: block;
-    color: #cca4e3;
-    padding: 8px 16px;
-    text-decoration: none;
-    font-size: large;
+.slide {
+  width: 20%;
+  height: 100%;
+  /* padding: 20px 0px; */
+  background-color: #171751;
+  position: fixed;
+  overflow-y: auto;
+  margin-top: 1.5625rem;
 }
 
-.mactive {
-  color: #000;
-  background-color: #EEEEEE;
+.slide>ul>li {
+  color: #fff;
+  list-style: none;
+  font-family: 'Farsan', cursive;
+  line-height: 70px;
+  text-align: left;
+  font-size: 1.5625rem;
 }
 
-.infor {
-  margin-left:25%;
-  padding:1px 16px;
-  height:400px;
-  background-color: #d4d2e0;
-  font-size: x-large;
+.slide>ul>li:hover {
+  background-color: #5C6898;
 }
 
-.list:hover:not(.active) {
-    background-color: #cca4e3;
-    color: white;
+.slide>ul>li:hover>a {
+  color: #fff;
 }
 
-.dropdown {
-    position: relative;
-    display: inline-block;
-  }
+.slide i {
+  float: right;
+  padding-right: 20px;
+}
 
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px #000;
-    padding: 12px 16px;
-  }
-  .dropdown:active .dropdown-content {
-    display: block;
-  }
-
-  .carousel-inner img {
-    width: 100%;
-    height: 100%;
+h1 {
+  font-family: 'Farsan', cursive; 
+  margin-left: 27%; 
+  color: white;
+  margin-top: 1.25rem;
 }
