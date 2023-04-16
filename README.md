@@ -56,3 +56,8 @@ A few screenshots:
 Version 2.5
 
 We have connected all pages and added a logo we designed for the webpage. Pages in "Travel" have been beautified.
+
+
+https://user-images.githubusercontent.com/128205502/232289097-8e9fb6d8-a931-4400-be5c-327d59a41a6a.mp4
+
+
