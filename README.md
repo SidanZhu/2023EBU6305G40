@@ -45,9 +45,7 @@ A few screenshots:
 ![image](https://user-images.githubusercontent.com/128036352/231962417-379f30bb-0bb8-4c65-9049-783edeb74a01.png)
 ![image](https://user-images.githubusercontent.com/128036352/231962512-f5f78f6c-f5b6-4ead-aaae-78474cff493c.png)
 ![image](https://user-images.githubusercontent.com/128036352/231962621-83b89275-6e8a-410e-baf0-a28b126562fe.png)
-<img width="1440" alt="截屏2023-04-14 下午4 38 33" src="https://user-i<img width="938" alt="jieping" src="https://user-images.githubusercontent.com/128051024/232227073-80eace67-5753-4f17-ac02-8eef7e9f19f1.png"><img width="938" alt="jieping1" src="https://user-images.githubusercontent.com/128051024/232227078-c8cdba7f-dab6-45d0-9578-8b8d6396e964.png">
 
-mages.githubusercontent.com/106053648/231991839-f13d9525-fb8a-4b63-8dc6-884a151c7983.png">
 <img width="1440" alt="截屏2023-04-14 下午4 38 56" src="https://user-images.githubusercontent.com/106053648/231991873-9a50607c-adad-4682-a206-97b2bf8e24b5.png">
 <img width="1440" alt="截屏2023-04-14 下午4 40 48" src="https://user-images.githubusercontent.com/106053648/231992243-4abd48a2-7f4e-416b-96ed-52ce1c263fde.png">
 <img width="1440" alt="截屏2023-04-14 下午4 41 01" src="https://user-images.githubusercontent.com/106053648/231992272-930a11be-eb19-4599-92d9-4e65c9f29f1b.png">
