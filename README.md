@@ -55,4 +55,4 @@ A few screenshots:
 
 Version 2.5
 
-
+We have connected all pages and added a logo we designed for the webpage. Pages in "Travel" have been beautified.
