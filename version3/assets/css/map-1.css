@@ -1,0 +1,171 @@
+.map1 {
+  
+   
+    width:75rem;
+    height:34.75rem;
+  
+   
+  
+    
+}
+
+
+body{
+    
+    /*background-image: url("../../images/1.png") no-repeat;*/
+   background: rgba(255,255,255, 0.1);
+   opacity: 0.9;
+    
+}
+
+
+
+   
+.link1 img{
+    width:2.5rem;
+    height:2.5rem;
+    text-decoration: none;
+    
+    
+}
+#dufu{
+    position: absolute;
+    top: 25.56rem;
+    left:44rem;
+}
+#wuhou{
+    position: absolute;
+    top:30rem;
+    left:41.813rem;
+}
+#panda{
+    position: absolute;
+    top: 28.138rem;
+    left:42.925rem;
+}
+#mount{
+    position: absolute;
+    top:18.125rem;
+    left: 30.95rem;
+}
+#dujiang{
+    position: absolute;
+    top:20rem;
+    left: 32.888rem;
+}
+#kuanzhai{
+    position: absolute;
+    top:29.5rem;
+    left:38.613rem;
+}
+.inputs{
+    width:31.250rem;
+    height:1.250rem;
+    color:rgb(34,139,34);
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold;
+    border: 0;
+    background-color: rgba(0,0,0, 0.001);
+    border:0.125rem;
+  }
+#dufuintroduction{
+    position: absolute;
+    top: 24rem;
+    left:42rem;
+ 
+}
+#dufus{
+    position: absolute;  
+    top: 17.5rem;
+    left:42rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+  
+
+}
+#Wuhouintroduction{
+    position: absolute;
+    top:32.5rem;
+    left:39.5rem;
+}
+#Wuhous{
+    position: absolute;
+    top:33.125rem;
+    left:42.613rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+}
+#pandaintroduction{
+    position: absolute;
+    top: 28.5rem;
+    left:45.5rem;
+}
+#Pandas{
+    position:absolute;
+    top: 29.138rem;
+    left:46.825rem;
+    width:3rem;
+    height:6rem;
+    color:black;
+}
+#mountintroduction{
+    position: absolute;
+    top:17.125rem;
+    left: 28rem;}
+
+#mounts{
+    position:absolute;
+    top: 11.9rem;
+    left:31.125rem;
+    width:3rem;
+    height:6rem;
+    color: black;
+    
+
+}
+#dujiangintroduction{
+    position: absolute;
+    top:22.5rem;
+    left: 30rem;
+}
+#dujiangyans{
+    position: absolute;
+    top:22.0rem;
+    left: 34.9rem;
+    width:3rem;
+    height:3rem;
+    color:black;
+    
+}
+#broadintroduction{
+    position: absolute;
+    top:28rem;
+    left:36rem;
+
+}
+#broads{
+    position: absolute;
+    top:22.125rem;
+    left:37.613rem;
+    width:3rem;
+    height:3rem;
+    color:black;
+    
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .echarts-map {
+    position:relative;
+    width: 85.75rem;
+    height: 44.75rem;
+    left:-3rem;
+    bottom: 2rem;
+}
+
+

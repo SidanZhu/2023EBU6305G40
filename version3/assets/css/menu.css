@@ -1,0 +1,38 @@
+.slide {
+  width: 20%;
+  height: 100%;
+  /* padding: 20px 0px; */
+  background-color: #171751;
+  position: fixed;
+  overflow-y: auto;
+  margin-top: 1.5625rem;
+}
+
+.slide>ul>li {
+  color: #fff;
+  list-style: none;
+  font-family: 'Farsan', cursive;
+  line-height: 70px;
+  text-align: left;
+  font-size: 1.5625rem;
+}
+
+.slide>ul>li:hover {
+  background-color: #5C6898;
+}
+
+.slide>ul>li:hover>a {
+  color: #fff;
+}
+
+.slide i {
+  float: right;
+  padding-right: 20px;
+}
+
+h1 {
+  font-family: 'Farsan', cursive; 
+  margin-left: 27%; 
+  color: white;
+  margin-top: 1.25rem;
+}
