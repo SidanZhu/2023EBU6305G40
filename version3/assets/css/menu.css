@@ -4,8 +4,8 @@
   /* padding: 20px 0px; */
   background-color: #171751;
   position: fixed;
-  overflow-y: auto;
-  margin-top: 1.5625rem;
+  margin-top: -2.5rem;
+  z-index: 0;
 }
 
 .slide>ul>li {
@@ -33,6 +33,5 @@
 h1 {
   font-family: 'Farsan', cursive; 
   margin-left: 27%; 
-  color: white;
   margin-top: 1.25rem;
 }
