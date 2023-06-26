@@ -14,6 +14,20 @@ Ruoxuan Yan, 2020213056, 200979184, jp2020213056@qmul.ac.uk
 ## Assigned TA:Yiming Zhou
 
 ## Quik Look
+
+Version 3 (Final Version)
+
+
+
+
+https://user-images.githubusercontent.com/128205502/233236885-59331f12-910c-420f-ad3d-23eb731a0ea0.mp4
+
+
+
+
+
+
+
 Version 1
 
 We have completed the navigation and general layout. A few animations are also added.
@@ -59,15 +73,5 @@ We have connected all pages and added a logo we designed for the webpage. Pages 
 
 
 https://user-images.githubusercontent.com/128205502/232289097-8e9fb6d8-a931-4400-be5c-327d59a41a6a.mp4
-
-
-Version 3 (Final Version)
-
-
-
-
-https://user-images.githubusercontent.com/128205502/233236885-59331f12-910c-420f-ad3d-23eb731a0ea0.mp4
-
-
 
 
